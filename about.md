@@ -17,4 +17,3 @@ Also I like biology.
 
 
 
-[horiono@mail.ru] (mailto:email@domain.com)
