@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Sky
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Did you see the sky at night, when you are faraway from city? 
+It is gorgeous!
+Now people rare look up to the sky in everyday rootin. They just can't see how beautifull it is.
+Maybe I'm romantic person, but you can't ignor that sky can completly change your mind.
