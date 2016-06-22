@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I was born in Aktobe, Kazakstan, but last 6 years I'm living in Almaty. I finished music school. Music is a  big part of my life. Now I'm studing in NIS CB Almaty. I realy like music & art. Also I like biology. And my dream is become successful  plastic surgoen.
