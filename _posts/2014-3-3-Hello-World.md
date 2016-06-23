@@ -1,12 +1,20 @@
 ---
 layout: post
-title: Sky
+title: Roles of different developers
 ---
 
-Did you see the sky at night, when you are faraway from city? 
-It is gorgeous!
-Now people rare look up to the sky in everyday rootin. They just can't see how beautifull it is.
-Maybe I'm romantic person, but you can't ignor that sky can completly change your mind.
+First let's name them:
+1 Engineer
+2 Producer
+3 Designer
+4 Artist
+5 Scientist 
 
-Heaven may be vary formidable, clear but always inviting.You feel better when  you look up to the sky and think about something, dreaming.
-Don't forget about this.
+
+We can imagine that everyone is a finger of our hand. Then which finger will everyone be?
+
+1Engineer will be 3 if we count starting from thumb, because in most situations he plays really big role. He wrights code and puts everything together.
+2 Producer will be the thumb, because he brings resources and clients. 
+3 Designer will be 2 finger, because he pointing to aim, he showing to others what to do, gives direction.
+4 Artist is the 5 finger. He creates look of product.
+5 Scientist is the 4. He analyses what clients want to see, helps to do game or other product more realistic.
