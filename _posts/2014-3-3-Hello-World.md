@@ -14,7 +14,13 @@ First let's name them:
 We can imagine that everyone is a finger of our hand. Then which finger will everyone be?
 
 1Engineer will be 3 if we count starting from thumb, because in most situations he plays really big role. He wrights code and puts everything together.
+![_config.yml](http://thumbs.dreamstime.com/z/software-engineer-concept-people-front-many-computer-38321157.jpg)
 2 Producer will be the thumb, because he brings resources and clients. 
+![_config.yml](http://www.icrewz.com/wp-content/files/Game-Development-Producer.jpg)
 3 Designer will be 2 finger, because he pointing to aim, he showing to others what to do, gives direction.
+![_config.yml](http://s1.thingpic.com/images/fx/fwjr8HbWbGtxh4E6YMv5XF1J.jpeg)
 4 Artist is the 5 finger. He creates look of product.
+![_config.yml](https://s-media-cache-ak0.pinimg.com/564x/90/16/77/9016774ddf2e486aff46629939f12333.jpg)
 5 Scientist is the 4. He analyses what clients want to see, helps to do game or other product more realistic.
+![_config.yml](http://png.clipart.me/graphics/previews/196/scientist-girl-writes-experiment-vector-hand-drawing_196954193.jpg)
+I knew this from game disain course, but I want to be plastic surgeon, because I love bio and anatomy, also their salary is realy big.
