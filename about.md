@@ -14,7 +14,9 @@ I finished music school. Music is a  big part of my life.
 Now I'm studing in NIS CB Almaty.
 I realy like music & art.
 Also I like biology. 
+
 ![_config.yml](https://apf.mail.ru/cgi-bin/readmsg?id=14667640990000000911;0;1&af_preview=1&exif=1)
+
 It is me.
 
 
